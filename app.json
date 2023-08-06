@@ -1,0 +1,16 @@
+{
+    "name": "SignTok",
+    "description": "Sign TikTok requests",
+    "keywords": [
+        "tiktok",
+        "api",
+        "node"
+    ],
+    "website": "https://github.com/pablouser1/SignTok",
+    "repository": "https://github.com/pablouser1/SignTok",
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        }
+    ]
+}
